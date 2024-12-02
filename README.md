@@ -17,5 +17,9 @@ A fun and interactive Dice Roll App built using Kotlin and Jetpack Compose. This
 .Build Tool: Gradle
 
 ### Screenshots 📸
-<img src="https://github.com/Yogeshyadav03/Dice_Roll_App/blob/master/photo_6228507903204115044_y.jpg?raw=true" alt="Dice Roll App Screenshot" width="400"/>
+<p align="center">
+  <img src="https://github.com/Yogeshyadav03/Dice_Roll_App/blob/master/photo_6228507903204115044_y.jpg?raw=true" alt="Image 1" width="300">
+  <img src="https://github.com/Yogeshyadav03/Dice_Roll_App/blob/master/photo_6228507903204115046_y.jpg?raw=true" alt="Image 2" width="300">
+  <img src="https://github.com/Yogeshyadav03/Dice_Roll_App/blob/master/photo_6228507903204115045_y.jpg?raw=true" alt="Image 3" width="300">
+</p>
 
