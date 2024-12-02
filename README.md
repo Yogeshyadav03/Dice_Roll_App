@@ -1,4 +1,4 @@
-#Dice Roll App 🎲
+# Dice Roll App 🎲
 
 A fun and interactive Dice Roll App built using Kotlin and Jetpack Compose. This app allows users to roll dice, tracks player turns, and determines the winner based on scores.
 
@@ -9,7 +9,7 @@ A fun and interactive Dice Roll App built using Kotlin and Jetpack Compose. This
 .🎨 Modern UI: Leveraging Jetpack Compose for a smooth and responsive user experience.
 .🔄 Reset Game: Option to reset the game and play again.
 
-###Tech Stack 🛠️
+### Tech Stack 🛠️
 
 .Language: Kotlin
 .UI Framework: Jetpack Compose
